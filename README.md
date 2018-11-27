@@ -1,4 +1,4 @@
-# Opgaveservice: Polymorfi
+# Opgaveservice C#: Polymorfi
 
 Tid til en simpel opgave der sætter fokus objektorienteret programmering.
 
