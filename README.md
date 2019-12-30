@@ -1,6 +1,6 @@
-# Opgaveservice C#: Polymorfi
+# Opgave i C#: Polymorfi
 
-Tid til en simpel opgave der sætter fokus objektorienteret programmering.
+Her er en simpel opgave, der sætter fokus objektorienteret programmering.
 
 Du skal i en konsolapplikation skabe tre klasser – en superklasse som de to andre klasser arver fra. I (noget der minder om) UML kan de beskrives som følger:
 
@@ -29,5 +29,7 @@ Det vil se nogenlunde sådan ud:
 Hvis du har lyst kan du skabe en ny klasse, der repræsenterer et hold med en instruktør og op til 12 elever. Måske nedarvning fra den generiske List?
 
 Du kunne måske også sørge for validering af egenskaberne i konstruktørerne.
+
+Se mit forslag til løsning [her](https://github.com/devcronberg/os-cs-polymorfi). Den er baseret på det gamle .NET Framework, men du kan blot benytte .NET Core/Standard.
 
 
